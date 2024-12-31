@@ -4,6 +4,6 @@ This is the code repository for paper [A New Approach to Generate Individual Lev
 
 The codes are lightweight and run on CPU.
 
-You can either refer to notebook or paper for more details.
+You can either refer to the notebook or paper for more details.
 
-Update at Dec. 30th 2024.
+Update on Dec. 30th 2024.
