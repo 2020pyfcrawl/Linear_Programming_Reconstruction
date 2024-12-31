@@ -1,5 +1,9 @@
-# Linear_Programming_Reconstruction
+# Linear Programming Reconstruction
 
-code repository for paper https://openreview.net/pdf?id=VVYnNKUzdH, code owned by the author.
+This is the code repository for paper [A New Approach to Generate Individual Level Data of Walled Garden Platforms: Linear Programming Reconstruction](https://openreview.net/pdf?id=VVYnNKUzdH), code owned by the author.
 
-will be added before Jan. 1st 2025.
+The codes are lightweight and run on CPU.
+
+You can either refer to notebook or paper for more details.
+
+Update at Dec. 30th 2024.
